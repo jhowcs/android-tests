@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TraderJournal</string>
+    <string name="title_activity_stock_register">StockRegister</string>
+    <string name="nothing_to_show">nothing to show</string>
+    <string name="status_view_message">please fill all the fields</string>
+    <string name="stock_name">stock name</string>
+    <string name="entry_price">entry price</string>
+    <string name="stop_loss">stop loss</string>
+    <string name="save">save</string>
+</resources>
